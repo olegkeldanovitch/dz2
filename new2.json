@@ -1,1 +1,1 @@
-var jsonPerson = '{"name":"Келданович Олег Станиславович","age":27,"animals":2,"salary":"5000$"}'
+var jsonPerson = '{"name":"Келданович Олег Станиславович","age":27,"animals":2,"salary":"5000$","film":"Мстители","serial":"Теория большого взрыва","season":"winter","country":"Japan"}'
