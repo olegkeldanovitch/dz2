@@ -3,6 +3,10 @@
 <Employee name="Келданович Олег Станиславович">
 <Age>27</Age>
 <Animals>1</Animals>
-<Salary>5000</Salary>
+<Salary>5000$</Salary>
+<Film>Мстители</Film>
+<Serial>Теория большого взрыва</Serial>
+<Season>Winter</Season>
+<Country>Japan</Country>
 </Employee>
 </root>
